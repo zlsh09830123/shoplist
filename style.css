@@ -1,0 +1,45 @@
+h1 {
+ 	color: #ff2982;
+}
+
+hr {
+ 	background-color: #ffb7c5;
+ 	height: 2px;
+ 	width: 200px;
+ 	margin-left: 0;
+}
+
+.done {
+ 	text-decoration: line-through;
+}
+
+.btn-vis {
+	visibility: visible;
+}
+
+li {
+	width: 100px;
+}
+
+li:hover {
+	cursor: pointer;
+}
+
+span {
+	display: flex;
+}
+
+button {
+	visibility: hidden;
+}
+
+#container {
+	border: 2px solid black;
+	border-radius: 20px;
+	padding-top: 40px;
+	padding-bottom: 15px;
+	padding-left: 110px;
+	width: 30%;
+	background: url("./img/cute-back.jpg") no-repeat;
+  	background-size: cover;
+}
